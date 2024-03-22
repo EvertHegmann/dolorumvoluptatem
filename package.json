@@ -1,0 +1,28 @@
+{
+  "name": "dolorumvoluptatem",
+  "version": "1.0.0",
+  "description": "typescript in Python style",
+  "main": "lib.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EvertHegmann/dolorumvoluptatem.git"
+  },
+  "keywords": [
+    "python",
+    "nodejs",
+    "typescript",
+    "api",
+    "functional"
+  ],
+  "author": "AlfonsoHirthe",
+  "license": "MIT",
+  "dependencies": {
+    "@types/prompts": "^2.0.9",
+    "denque": "^1.4.1",
+    "prompts": "^2.3.2",
+    "ts-metacode": "^0.5.1"
+  }
+}
